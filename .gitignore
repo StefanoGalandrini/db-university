@@ -4,5 +4,6 @@ screenshots/
 *.json
 *.bkp
 *.gz
+*.tmp
 ~$-university.docx
 EX - Query con SELECT.pdf
